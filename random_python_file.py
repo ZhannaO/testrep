@@ -1,2 +1,2 @@
 #Some_file
-print("ok, print smth")
+print("ok, print file")
